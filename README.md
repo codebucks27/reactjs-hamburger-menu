@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Hamburger Menu in React JS
+
+This repository contains code for Hamburger Menu in react with react-router functoinalities and Styled-components.
+
+If you want to learn how to create it please follow below tutorial:
+https://youtu.be/XQCuew98W4k
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
